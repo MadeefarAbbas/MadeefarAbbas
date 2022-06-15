@@ -3,11 +3,11 @@
 <h1 align="center">Hi there,&nbsp; I'm Madeefar! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/muzummil-iqbal-67b92515b/" target="_blank">
+ <a href="https://www.linkedin.com/in/madeefar-abbas-069176125//" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   
- <a href="https://twitter.com/IqbalMuzummil" target="_blank">
+ <a href="https://twitter.com/MadeefarAbbas" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 <!-- 👋
-**muzummil/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**madeefarabbas/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

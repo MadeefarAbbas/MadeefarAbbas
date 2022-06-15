@@ -1,6 +1,6 @@
 <!-- ### Hi there  -->
 
-<h1 align="center">Hi there,&nbsp; I'm Muzummil! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there,&nbsp; I'm Madeefar! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/muzummil-iqbal-67b92515b/" target="_blank">
@@ -17,8 +17,6 @@
   Professional Skills
   </strong>
 </p>
-
-
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -45,9 +43,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ## ⚡ Technologies
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -60,8 +57,6 @@ Here are some ideas to get you started:
 ![React-Hooks](https://img.shields.io/badge/-React%20Hooks-black?style=flat-square&logo=react)
 ![React-Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
-
-
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 ![PHP](https://img.shields.io/badge/-ruby-black?style=flat-square&logo=ruby)
@@ -86,7 +81,6 @@ Here are some ideas to get you started:
 <!-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu) -->
 <!-- ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) -->
 <!-- ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS) -->
-
 
 <!-- Find out more about me and feel free to connect with me here: -->
 
@@ -120,5 +114,3 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=muzummil&theme=monokai" />
  </a>
 </p>
-
-

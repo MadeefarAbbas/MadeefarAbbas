@@ -23,13 +23,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Nodejs" width="55" height="40" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
 
 <!-- 👋
-**madeefarabbas/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Madeefar/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -56,10 +56,11 @@ Here are some ideas to get you started:
 ![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React-Hooks](https://img.shields.io/badge/-React%20Hooks-black?style=flat-square&logo=react)
 ![React-Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
-![PHP](https://img.shields.io/badge/-ruby-black?style=flat-square&logo=ruby)
+![MySql](https://img.shields.io/badge/-MySQL-003B57?style=flat-square&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-DDE072?style=flat-square&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
@@ -83,34 +84,3 @@ Here are some ideas to get you started:
 <!-- ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS) -->
 
 <!-- Find out more about me and feel free to connect with me here: -->
-
-![](https://komarev.com/ghpvc/?username=muzummil)
-
-</br>
-
-<p align="center">
- <a href="#" alt="Languages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzummil&layout=compact&theme=dark" />
- </a>
-</p>
-
-<p align="center">
- <a href="#" alt="Muzummil's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true&theme=dark" />
- </a>
-
-</p>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true) -->
-
-<p align="center">
- <a href="#" alt="Muzummil Iqbal's GitHub streak stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzummil&theme=dark&date_format=%5BY.%5Dn.j" />
- </a>
-</p>
-
-<p align="center">
- <a href="#" alt="Muzummil Iqbal's Treophies">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzummil&theme=monokai" />
- </a>
-</p>

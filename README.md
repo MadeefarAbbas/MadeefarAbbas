@@ -84,3 +84,20 @@ Here are some ideas to get you started:
 <!-- ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS) -->
 
 <!-- Find out more about me and feel free to connect with me here: -->
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true) -->
+
+<p align="center">
+ <a href="#" alt="Madeefar Abbas's GitHub streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadeefarAbbas&theme=dark&date_format=%5BY.%5Dn.j" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="#" alt="Madeefar Abbas's Treophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=MadeefarAbbas&theme=monokai" />
+ </a>
+</p>
+
+![](./profile-3d-contrib/profile-night-green.svg)

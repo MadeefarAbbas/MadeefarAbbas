@@ -85,6 +85,22 @@ Here are some ideas to get you started:
 
 <!-- Find out more about me and feel free to connect with me here: -->
 
+![](https://komarev.com/ghpvc/?username=MadeefarAbbas)
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeefarAbbas&layout=compact&theme=dark" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="#" alt="Madeefar Abbas's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadeefarAbbas&show_icons=true&count_private=true&theme=dark" />
+ </a>
+
+</p>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muzummil&show_icons=true&count_private=true) -->
 
